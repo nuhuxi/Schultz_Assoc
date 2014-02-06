@@ -1,0 +1,99 @@
+<mockup version="1.0" skin="sketch" measuredW="800" measuredH="682" mockupW="800" mockupH="682">
+  <controls>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="800" h="682" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Image" x="15" y="76" w="108" h="96" measuredW="512" measuredH="512" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Images/128738-simple-red-square-icon-business-tool7.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="75" y="40" w="54" h="17" measuredW="67" measuredH="21" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Image" x="173" y="243" w="244" h="160" measuredW="462" measuredH="303" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Images/House%2520end.JPG</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Image" x="417" y="243" w="241" h="159" measuredW="455" measuredH="278" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Images/House%2520%2520relax.JPG</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::ButtonBar" x="268" y="455" w="342" h="38" measuredW="223" measuredH="29" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20About%2C%20Contact%20us%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="__group__" x="123" y="86" w="178" h="76" measuredW="178" measuredH="76" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="163" h="19" measuredW="204" measuredH="21" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>Shultz%20and%20Associates%20Architecture</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="19" w="163" h="19" measuredW="121" measuredH="21" zOrder="1" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>5810%20Sutton%20Avenue</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="31" y="36" w="132" h="19" measuredW="128" measuredH="21" zOrder="2" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>Batavia%2C%20Ohio%2045245%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="51" y="55" w="92" h="21" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>513.688.2500%20%20ShultzArchitecture@gmail.com</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="34" controlTypeID="__group__" x="673" y="203" w="105" h="234" measuredW="105" measuredH="234" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="105" h="51" measuredW="92" measuredH="27" zOrder="0" locked="false" isInGroup="34">
+          <controlProperties>
+            <text>What%20we%20do</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="0" y="66" w="102" h="52" measuredW="97" measuredH="27" zOrder="1" locked="false" isInGroup="34">
+          <controlProperties>
+            <text>How%20we%20do%20it</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="0" y="183" w="105" h="51" measuredW="105" measuredH="27" zOrder="2" locked="false" isInGroup="34">
+          <controlProperties>
+            <text>Get%20more%20info</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="0" y="125" w="105" h="51" measuredW="73" measuredH="27" zOrder="3" locked="false" isInGroup="34">
+          <controlProperties>
+            <text>Projects</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="36" controlTypeID="__group__" x="108" y="162" w="623" h="125" measuredW="623" measuredH="125" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="623" h="92" measuredW="445" measuredH="41" zOrder="0" locked="false" isInGroup="36">
+          <controlProperties>
+            <align>center</align>
+            <size>32</size>
+            <text>Where%20you%20live%20now%2C%20but%20better.</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="33" w="623" h="92" measuredW="430" measuredH="41" zOrder="1" locked="false" isInGroup="36">
+          <controlProperties>
+            <align>center</align>
+            <size>32</size>
+            <text>Renovations%20that%20make%20sense.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

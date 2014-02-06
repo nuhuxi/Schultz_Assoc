@@ -1,0 +1,67 @@
+html, body {	
+	height:100%;
+	width:100%;
+	}
+
+body{
+	font-family: arial, sans-serif;
+	font-size: 12px;
+	width:100%; 
+	margin: 0 auto -4em;
+	text-align: center;
+	}
+
+.main {
+	width: 800px;
+}
+
+.logo_and_address {
+	height: 150px;
+	width:800px; 	
+	text-align: left;
+	font-size: 12px;
+	vertical-align: middle;
+}
+
+.center-section {
+	border: 1px dotted #666699;
+	height: 300px;
+	background: #666699;
+	width:800px; 
+	text-align: left;
+	font-size: 36px;
+	vertical-align: middle;
+	}
+
+.footer {
+	text-align: left;
+	border: 1px dotted #66FF99;
+	height: 100px;
+	background: #66FF99;
+	width:800px; 
+	font-size: 36px;
+	vertical-align: middle;
+ }
+
+
+a{
+		color: #404040;
+		text-decoration: none;
+		font-size: 14px;
+
+}
+
+a:hover {
+
+		text-decoration: underline;
+	}
+
+
+
+
+
+
+
+
+
+
